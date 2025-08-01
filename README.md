@@ -1,6 +1,7 @@
 # Salary-Trends-in-the-Data-Industry-EDA-Insights
 
 This project focuses on cleaning and exploring a real-world dataset of data science-related jobs and salaries across multiple countries.
+
 🔍 Key Objectives:
 
     Clean and preprocess messy and inconsistent salary data
